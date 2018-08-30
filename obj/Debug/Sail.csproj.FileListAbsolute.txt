@@ -1,0 +1,10 @@
+C:\Users\techn\Desktop\Sail\bin\Debug\Sail.exe.config
+C:\Users\techn\Desktop\Sail\bin\Debug\Sail.exe
+C:\Users\techn\Desktop\Sail\bin\Debug\Sail.pdb
+C:\Users\techn\Desktop\Sail\obj\Debug\Sail.csprojResolveAssemblyReference.cache
+C:\Users\techn\Desktop\Sail\obj\Debug\Sail.Sail.resources
+C:\Users\techn\Desktop\Sail\obj\Debug\Sail.Properties.Resources.resources
+C:\Users\techn\Desktop\Sail\obj\Debug\Sail.csproj.GenerateResource.Cache
+C:\Users\techn\Desktop\Sail\obj\Debug\Sail.csproj.CoreCompileInputs.cache
+C:\Users\techn\Desktop\Sail\obj\Debug\Sail.exe
+C:\Users\techn\Desktop\Sail\obj\Debug\Sail.pdb
