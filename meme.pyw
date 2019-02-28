@@ -1,7 +1,7 @@
 
 import time
 
-for x in range(0, 100):
+for x in range(0, 1000):
 
     r = open("useless.txt", "a")
 
@@ -9,4 +9,4 @@ for x in range(0, 100):
 
     r.close();
 
-    time.sleep(1)
+    time.sleep(2)
