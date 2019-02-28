@@ -3,9 +3,9 @@ import time
 
 for x in range(0, 100):
 
-    f = open("useless.txt", "a")
+    r = open("useless.txt", "a")
 
-    r.write(x);
+    r.write(str(x));
 
     r.close();
 
