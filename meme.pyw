@@ -9,4 +9,4 @@ for x in range(0, 1000):
 
     r.close();
 
-    time.sleep(2)
+    time.sleep(1)
