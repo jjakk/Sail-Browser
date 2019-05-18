@@ -6,4 +6,4 @@ Behold Sail, the best broswers in existence.  Programmed over the course of an e
 ## Sail Mobile
 There is also an android version
 
-![Sail Mobile](https://raw.githubusercontent.com/JakInventions/Sail-Browser/master/Images/SS2.png =108x192)
+![Sail Mobile](https://raw.githubusercontent.com/JakInventions/Sail-Browser/master/Images/SS2.png)
