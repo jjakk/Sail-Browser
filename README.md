@@ -9,3 +9,5 @@ There is also an android version
 <img src="https://raw.githubusercontent.com/JakInventions/Sail-Browser/master/Images/SS2.png" width="250">
 
 <a href='https://github.com/jjakk/Sail-Browser/releases/download/1/Sail.exe'>Windows Download</a>
+
+<a href='https://github.com/jjakk/Sail-Browser/releases/download/1.0/Sail.apk'>Android Dwonload</a>
